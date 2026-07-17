@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jellyfish.svg" alt="Jellymint AI Animation" width="220" height="286" />
+  <img src="assets_public/jellyfish.svg" alt="Jellymint AI Animation" width="220" height="286" />
 </p>
 
 <h1 align="center">🍃 Jellymint AI</h1>
@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://jellymint-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-jellymint--ai.vercel.app-4ECCA3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   <img src="https://img.shields.io/badge/Platform-Raspberry_Pi_5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Runtime-Ollama-0969DA?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -25,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="assets/banner.png" alt="Jellymint AI Banner" width="100%" style="border-radius: 12px;" />
+  <img src="assets_public/banner.png" alt="Jellymint AI Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
 ---
@@ -114,7 +115,7 @@ This project is licensed under the MIT License.
 ---
 
 <p align="center">
-  <img src="assets/logo.png" alt="Jellymint" width="48" />
+  <img src="assets_public/logo.png" alt="Jellymint" width="48" />
   <br/>
   <strong>Built by MintFire</strong>
   <br/>
