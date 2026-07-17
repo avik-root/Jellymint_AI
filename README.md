@@ -5,7 +5,7 @@
 <h1 align="center">🍃 Jellymint AI</h1>
 
 <p align="center">
-  <strong>Self-Hosted Local LLM Platform · Powered by Raspberry Pi 5 · Privacy-First AI</strong>
+  <strong>Self-Hosted Local LLM Platform · Powered by Raspberry Pi 5 · Privacy-First AI · <a href="https://jellymint-ai.vercel.app">Jellymint AI</a> </strong>
 </p>
 
 <p align="center">
